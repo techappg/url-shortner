@@ -1,2 +1,2 @@
-# url-shortner
-Django application to make URL short.
+# Url-shortner
+it is used to shorten a url.
